@@ -10,4 +10,5 @@ Puppet::Type.newtype(:key_value_config) do
   newproperty(:value) do
     desc 'the value to store'
   end
+
 end

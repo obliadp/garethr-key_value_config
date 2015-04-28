@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
 gem "etcd"
-gem "diplomat"
 
 group :test do
   gem "rake"
